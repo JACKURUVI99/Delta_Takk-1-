@@ -1,0 +1,189 @@
+ln: failed to create symbolic link '/home/users/aarav01/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/aisha02/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/alice03/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/arjun04/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/arya05/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/bob06/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/charan07/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/charlie08/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/deepa09/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/david10/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/diya11/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/emma12/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/farhan13/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/gauri14/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/george15/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/hari16/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/harry17/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/isha18/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/ian19/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/jack20/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/kabir21/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/kavya22/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/kevin23/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/krish24/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/laura25/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/meera26/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/mike27/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/nikhil28/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/nina29/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/omar30/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/pooja31/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/paul32/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/rahul33/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/rani34/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/rishi35/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/steve36/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/sanjay37/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/tina38/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/uma39/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/varun40/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/veena41/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/wendy42/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/xavier43/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/yash44/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/zara45/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/zoya46/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/vinay47/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/tara48/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/ritu49/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/users/neel50/all_blogs/all_blogs': File exists
+ln: failed to create symbolic link '/home/mods/praveen/public_links/ananya': No such file or directory
+chown: cannot access '/home/mods/praveen/public_links/ananya': No such file or directory
+ln: failed to create symbolic link '/home/mods/praveen/public_links/bala': No such file or directory
+chown: cannot access '/home/mods/praveen/public_links/bala': No such file or directory
+ln: failed to create symbolic link '/home/mods/praveen/public_links/chitra': No such file or directory
+chown: cannot access '/home/mods/praveen/public_links/chitra': No such file or directory
+ln: failed to create symbolic link '/home/mods/praveen/public_links/dinesh': No such file or directory
+chown: cannot access '/home/mods/praveen/public_links/dinesh': No such file or directory
+ln: failed to create symbolic link '/home/mods/praveen/public_links/esha': No such file or directory
+chown: cannot access '/home/mods/praveen/public_links/esha': No such file or directory
+ln: failed to create symbolic link '/home/mods/roshan/public_links/firoz': No such file or directory
+chown: cannot access '/home/mods/roshan/public_links/firoz': No such file or directory
+ln: failed to create symbolic link '/home/mods/roshan/public_links/gayathri': No such file or directory
+chown: cannot access '/home/mods/roshan/public_links/gayathri': No such file or directory
+ln: failed to create symbolic link '/home/mods/roshan/public_links/harsha': No such file or directory
+chown: cannot access '/home/mods/roshan/public_links/harsha': No such file or directory
+ln: failed to create symbolic link '/home/mods/roshan/public_links/imran': No such file or directory
+chown: cannot access '/home/mods/roshan/public_links/imran': No such file or directory
+ln: failed to create symbolic link '/home/mods/roshan/public_links/jaya': No such file or directory
+chown: cannot access '/home/mods/roshan/public_links/jaya': No such file or directory
+ln: failed to create symbolic link '/home/mods/neha/public_links/kiran': No such file or directory
+chown: cannot access '/home/mods/neha/public_links/kiran': No such file or directory
+ln: failed to create symbolic link '/home/mods/neha/public_links/lalitha': No such file or directory
+chown: cannot access '/home/mods/neha/public_links/lalitha': No such file or directory
+ln: failed to create symbolic link '/home/mods/neha/public_links/mohan': No such file or directory
+chown: cannot access '/home/mods/neha/public_links/mohan': No such file or directory
+ln: failed to create symbolic link '/home/mods/neha/public_links/nandini': No such file or directory
+chown: cannot access '/home/mods/neha/public_links/nandini': No such file or directory
+ln: failed to create symbolic link '/home/mods/neha/public_links/omkar': No such file or directory
+chown: cannot access '/home/mods/neha/public_links/omkar': No such file or directory
+ln: failed to create symbolic link '/home/mods/karthik/public_links/priya': No such file or directory
+chown: cannot access '/home/mods/karthik/public_links/priya': No such file or directory
+ln: failed to create symbolic link '/home/mods/karthik/public_links/quincy': No such file or directory
+chown: cannot access '/home/mods/karthik/public_links/quincy': No such file or directory
+ln: failed to create symbolic link '/home/mods/karthik/public_links/raghu': No such file or directory
+chown: cannot access '/home/mods/karthik/public_links/raghu': No such file or directory
+ln: failed to create symbolic link '/home/mods/karthik/public_links/sneha': No such file or directory
+chown: cannot access '/home/mods/karthik/public_links/sneha': No such file or directory
+ln: failed to create symbolic link '/home/mods/karthik/public_links/tanvi': No such file or directory
+chown: cannot access '/home/mods/karthik/public_links/tanvi': No such file or directory
+ln: failed to create symbolic link '/home/mods/divya/public_links/usha': No such file or directory
+chown: cannot access '/home/mods/divya/public_links/usha': No such file or directory
+ln: failed to create symbolic link '/home/mods/divya/public_links/vignesh': No such file or directory
+chown: cannot access '/home/mods/divya/public_links/vignesh': No such file or directory
+ln: failed to create symbolic link '/home/mods/divya/public_links/waseem': No such file or directory
+chown: cannot access '/home/mods/divya/public_links/waseem': No such file or directory
+ln: failed to create symbolic link '/home/mods/divya/public_links/yamini': No such file or directory
+chown: cannot access '/home/mods/divya/public_links/yamini': No such file or directory
+ln: failed to create symbolic link '/home/mods/divya/public_links/zubin': No such file or directory
+chown: cannot access '/home/mods/divya/public_links/zubin': No such file or directory
+User initialization completed.
+Starting user initialization at Thu Jun  5 02:10:46 AM IST 2025
+Updated group for admins user mukundk
+Updated group for admins user jey
+Updated group for users user aarav01
+Updated group for users user aisha02
+Updated group for users user alice03
+Updated group for users user arjun04
+Updated group for users user arya05
+Updated group for users user bob06
+Updated group for users user charan07
+Updated group for users user charlie08
+Updated group for users user deepa09
+Updated group for users user david10
+Updated group for users user diya11
+Updated group for users user emma12
+Updated group for users user farhan13
+Updated group for users user gauri14
+Updated group for users user george15
+Updated group for users user hari16
+Updated group for users user harry17
+Updated group for users user isha18
+Updated group for users user ian19
+Updated group for users user jack20
+Updated group for users user kabir21
+Updated group for users user kavya22
+Updated group for users user kevin23
+Updated group for users user krish24
+Updated group for users user laura25
+Updated group for users user meera26
+Updated group for users user mike27
+Updated group for users user nikhil28
+Updated group for users user nina29
+Updated group for users user omar30
+Updated group for users user pooja31
+Updated group for users user paul32
+Updated group for users user rahul33
+Updated group for users user rani34
+Updated group for users user rishi35
+Updated group for users user steve36
+Updated group for users user sanjay37
+Updated group for users user tina38
+Updated group for users user uma39
+Updated group for users user varun40
+Updated group for users user veena41
+Updated group for users user wendy42
+Updated group for users user xavier43
+Updated group for users user yash44
+Updated group for users user zara45
+Updated group for users user zoya46
+Updated group for users user vinay47
+Updated group for users user tara48
+Updated group for users user ritu49
+Updated group for users user neel50
+Updated group for authors user ananya
+Updated group for authors user bala
+Updated group for authors user chitra
+Updated group for authors user dinesh
+Updated group for authors user esha
+Updated group for authors user firoz
+Updated group for authors user gayathri
+Updated group for authors user harsha
+Updated group for authors user imran
+Updated group for authors user jaya
+Updated group for authors user kiran
+Updated group for authors user lalitha
+Updated group for authors user mohan
+Updated group for authors user nandini
+Updated group for authors user omkar
+Updated group for authors user priya
+Updated group for authors user quincy
+Updated group for authors user raghu
+Updated group for authors user sneha
+Updated group for authors user tanvi
+Updated group for authors user usha
+Updated group for authors user vignesh
+Updated group for authors user waseem
+Updated group for authors user yamini
+Updated group for authors user zubin
+Updated group for mod praveen
+Updated group for mod roshan
+Updated group for mod neha
+Updated group for mod karthik
+Updated group for mod divya
+Removed admins requests.yaml from group g_admin
+Removed admins subscriptions.yaml from group g_admin
+Removed users all_blogs from group g_user
+Removed authors root from group g_author
+User initialization completed at Thu Jun  5 02:10:48 AM IST 2025
